@@ -1,0 +1,25 @@
+name: research
+channels:
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - bzip2=1.0.8=h1de35cc_0
+  - ca-certificates=2023.08.22=hecd8cb5_0
+  - cudatoolkit=9.0=h41a26b3_0
+  - expat=2.5.0=hcec6c5f_0
+  - libcxx=14.0.6=h9765a3e_0
+  - libffi=3.4.4=hecd8cb5_0
+  - ncurses=6.4=hcec6c5f_0
+  - openssl=3.0.12=hca72f7f_0
+  - pip=23.3=py312hecd8cb5_0
+  - python=3.12.0=hd58486a_0
+  - readline=8.2=hca72f7f_0
+  - setuptools=68.0.0=py312hecd8cb5_0
+  - sqlite=3.41.2=h6c40b1e_0
+  - tk=8.6.12=h5d9f67b_0
+  - tzdata=2023c=h04d1e81_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.4.2=h6c40b1e_0
+  - zlib=1.2.13=h4dc903c_0
+prefix: /Users/suesix/miniconda3/envs/research
